@@ -1,5 +1,7 @@
 # AutoSaver para Power BI
 
+![pp1-02](https://github.com/mateorregog/autosaverpbi/blob/main/autoSaver0.png)
+
 AutoSaver para Power BI es una herramienta desarrollada para facilitar el proceso de guardado automático de archivos en Power BI. Este programa está diseñado para evitar la pérdida de progreso al trabajar con grandes conjuntos de datos en Power BI, donde el cierre inesperado del programa puede resultar en la pérdida de cambios no guardados.
 
 ## Características
