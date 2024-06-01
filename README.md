@@ -24,3 +24,7 @@ AutoSaver para Power BI es una herramienta desarrollada para facilitar el proces
 ## Notas Adicionales
 
 - Es posible que necesites ejecutar el archivo .exe como administrador para garantizar que los cambios se guarden correctamente.
+
+## Screenshots
+
+![pp1-02](https://github.com/mateorregog/autosaverpbi/autoSaver1)
