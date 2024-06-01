@@ -15,6 +15,23 @@ AutoSaver para Power BI es una herramienta desarrollada para facilitar el proces
 3. Ejecuta el programa y sigue las instrucciones en pantalla para ingresar el nombre del archivo .pbix y establecer el intervalo de tiempo entre cada guardado automático.
 4. ¡Listo! AutoSaver para Power BI guardará automáticamente tu archivo de Power BI a intervalos regulares.
 
+## Instrucciones
+- Asegúrate de dejar el archivo ejecutable en la carpeta del .pbix que quieres trackear
+ 
+![pp1-02](https://github.com/mateorregog/autosaverpbi/blob/main/autoSaver1.png)
+
+-Inserta el nombre del archivo y el intervalo de tiempo con el que quiere que opere el tracker
+
+![pp1-02](https://github.com/mateorregog/autosaverpbi/blob/main/autoSaver2.png)
+
+- Asegúrate de que está bien escrito y confirma con el botón Aceptar
+  
+![pp1-02](https://github.com/mateorregog/autosaverpbi/blob/main/autoSaver3.png)
+
+- ¡ Y listo !
+  
+![pp1-02](https://github.com/mateorregog/autosaverpbi/blob/main/autoSaver4.png)
+
 ## Recomendaciones
 
 - Asegúrate de que el nombre ingresado coincida exactamente con el archivo que deseas guardar automáticamente.
@@ -25,6 +42,4 @@ AutoSaver para Power BI es una herramienta desarrollada para facilitar el proces
 
 - Es posible que necesites ejecutar el archivo .exe como administrador para garantizar que los cambios se guarden correctamente.
 
-## Screenshots
 
-![pp1-02](https://github.com/mateorregog/autosaverpbi/autoSaver1)
